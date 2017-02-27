@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 name: Hello Wrold.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
