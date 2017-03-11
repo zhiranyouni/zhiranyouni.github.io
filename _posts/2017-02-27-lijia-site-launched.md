@@ -3,10 +3,9 @@ layout: post
 title: "lijia, hello world, Launches Site"
 date: 2017-02-27
 ---
-
-/*  Well. Finally got around to putting this old website together.
+<!-- /*  Well. Finally got around to putting this old website together.
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.
-It actually is a lot easier than I thought it was going to be. ### */
+It actually is a lot easier than I thought it was going to be. ### */ -->
 
 #####This is my first blog,and my English is not good.So,in here,I will write it in Chinese.Later,I will write it in English more frequently.
 <p>正在学习Python，反反复复，一直感觉不是很系统，随着不断地坚持，不断地学习，接触，练习，慢慢有所领悟，感觉正在步入正轨。</p>
