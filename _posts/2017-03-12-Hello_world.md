@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lijia, hello world"
+title: "hello world"
 date: 2017-03-12
 ---
 ####just study,begin to do,for the future,for my love,for my dream. 
